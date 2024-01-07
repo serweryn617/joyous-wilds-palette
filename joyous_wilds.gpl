@@ -1,0 +1,24 @@
+GIMP Palette
+Name: Joyous Wilds
+Columns: 6
+# Joyous Wilds Palette
+# Color palette for creating complementary green and pink themes with dark backgrounds.
+# https://github.com/serweryn617/joyous-wilds-palette
+  0 204  82 green1
+  0 179  72 green2
+  0 154  62 green3
+  0 129  52 green4
+  0 104  42 green5
+  0  79  32 green6
+216  73 255 pink1
+194  62 230 pink2
+172  51 205 pink3
+150  40 180 pink4
+128  29 155 pink5
+106  18 130 pink6
+255 255 255 white
+204 204 204 text
+140 140 140 light_gray
+100 100 100 dark_gray
+ 31  31  31 bg_light
+ 24  24  24 bg_dark

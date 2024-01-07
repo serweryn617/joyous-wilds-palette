@@ -1,0 +1,19 @@
+{
+  "name": "joyous-wilds-palette",
+  "displayName": "Joyous Wilds Palette",
+  "description": "Aseprite color palette for creating complementary green and pink themes with dark backgrounds.",
+  "version": "1.0",
+  "author": {
+    "name": "serweryn617",
+    "url": "https://github.com/serweryn617"
+  },
+  "publisher": "serweryn617",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "Joyous Wilds", "path": "./joyous_wilds.gpl" }
+    ]
+  }
+}
